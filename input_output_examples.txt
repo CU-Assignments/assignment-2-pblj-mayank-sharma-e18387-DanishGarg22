@@ -16,7 +16,7 @@ Price: 1055000
 
 ###Sample Output:
 
-Library Management System by Pushkar[22bcs17250]
+Library Management System by Danish Garg[22BCS11591]
 
 Fiction Book Details:
 Title: 1984
